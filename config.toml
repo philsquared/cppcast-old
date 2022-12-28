@@ -65,15 +65,15 @@ favicon = "favicon.ico"
         twitter = "lefticus"
   
   [params.sponsors]
-    [params.sponsors.sonar]
-      name = "Sonar"
-      url = "https://www.sonarsource.com/?utm_source=cppcast&utm_medium=event&utm_campaign=cpp&utm_content=cppcast_ss"
-      ad = "img/sponsors/sonar-light-bg.png"
-
     [params.sponsors.jetbrains]
       name = "JetBrains"
       url = "https://jb.gg/cppcast"
       ad = "img/sponsors/jetbrains_600x500.png"
+
+    [params.sponsors.sonar]
+      name = "Sonar"
+      url = "https://www.sonarsource.com/?utm_source=cppcast&utm_medium=event&utm_campaign=cpp&utm_content=cppcast_ss"
+      ad = "img/sponsors/sonar-light-bg.png"
 
   [params.links]
     [params.links.gear]
