@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "CppCast"
 theme = "castanet"
 BaseURL = "https://cppcast.com/"
-paginate = "6"
+paginate = "7"
 
 [permalinks]
 	# page = "/:filename/"
