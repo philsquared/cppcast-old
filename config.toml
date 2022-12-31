@@ -48,6 +48,7 @@ favicon = "favicon.ico"
   [params.social]
     twitter = "cppcast"
     youtube = "channel/UCuCjADS4u3uJDTqUaG0H9dA"
+    mastodon = "@mastodon@cppcast.com"
 
   [params.authors]
     [params.authors.irvingr]
@@ -79,4 +80,7 @@ favicon = "favicon.ico"
     [params.links.gear]
       name = "Gear"
       url = "https://shop.spreadshirt.com/CppCast/"
+    [params.links.mastodon]
+      name = "@mastodon@cppcast.com"
+      url = "https://hachyderm.io/@cppcast"
 
