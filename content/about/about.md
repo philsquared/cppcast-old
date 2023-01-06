@@ -9,4 +9,4 @@ From 2015 to 2022 CppCast had (almost) weekly conversations with C++ conference 
 
 In May 2022 on the 349th episode Rob and Jason announced the podcast would be going on an 'indefinite hiatus' after 7 years of regular episodes.
 
-Rob and Jason can be reached on twitter at [@robwirving](https://twitter.com/robwirving) and [@lefticus](https://twitter.com/lefticus). 
+In December 2022, Rob and Jason returned for a 350th episode, where they handed over to Phil Nash and Timur Doumler, who became the new hosts of the show.
