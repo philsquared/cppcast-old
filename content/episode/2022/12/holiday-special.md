@@ -22,7 +22,7 @@ title = "Holiday Special with Phil Nash and Timur Doumler"
  - [C++ on Sea - Call for Speakers (ends Jan 8th)](https://cpponsea.uk/news/the-2023-call-for-speakers-opens.html)
  - ACCU - speakers selected, schedule soon
 
- ### Links ###
+### Links ###
 
  - [P1774R8 "Portable Assumption" ([[assume]])](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1774r8.pdf)
  - [P2590R2 "Explicit lifetime managerment" (std::start_lifetime_as)](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2590r2.pdf)
