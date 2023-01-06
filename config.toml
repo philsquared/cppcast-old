@@ -51,19 +51,19 @@ favicon = "favicon.ico"
     mastodon = "@mastodon@cppcast.com"
 
   [params.authors]
-    [params.authors.irvingr]
-      name = "Rob Irving"
-      thumbnail = "img/host/rob-irving.jpg"
-      bio = "Rob Irving is a Senior Software Engineer and Development Team Lead with [PAR Government](http://www.pargovernment.com/) in Cary, NC. He is a polyglot with experience in C#, Objective-C, Java and Ruby but the majority of his time and expertise is in C++. He started the CppCast podcast in February 2015, frustrated by the lack of podcast content for C++ development.\n\nA believer in continuous education, he loves learning about new technologies, often through podcasts!"
-      [params.authors.irvingr.social]
-        twitter = "robwirving"
+    [params.authors.nashp]
+      name = "Phil Nash"
+      thumbnail = "img/host/phil-nash.jpg"
+      bio = "Phil is the original author of Catch2, a regular speaker at conferences, trainer, organizer of C++ on Sea and the C++ London meet-up, and Developer Advocate at SonarSource."
+      [params.authors.nashp.social]
+        twitter = "phil_nash"
 
-    [params.authors.turnerj]
-      name = "Jason Turner"
-      thumbnail = "img/host/jason-turner.jpg"
-      bio = "Jason has been developing portable C++ since 2002. With very few exceptions, every line of code he has written since then has had to run on multiple platforms. He is an independent contractor and trainer focusing on cross-platform issues, utilization of C++ libraries from scripting languages and code quality assurance. He is the co-creator and maintainer of ChaiScript, a mature scripting language designed for modern C++. He is also the creator and curator of cppbestpractices.com an effort to gather the collective wisdom of the C++ community.\n\n[Contact Jason](http://articles.emptycrate.com/contact.html) if you are interested in having on-site C++ training for your company."
-      [params.authors.turnerj.social]
-        twitter = "lefticus"
+    [params.authors.doumlert]
+      name = "Timur Doumler"
+      thumbnail = "img/host/timur-doumler.jpg"
+      bio = "Timur Doumler is a C++ developer specializing in audio and music technology, active member of the ISO C++ committee, and part of the includecpp.org team. He is passionate about building communities, clean code, good tools, and the evolution of C++."
+      [params.authors.doumlert.social]
+        twitter = "timur_audio"
   
   [params.sponsors]
     [params.sponsors.jetbrains]
