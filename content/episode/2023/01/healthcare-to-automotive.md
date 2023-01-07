@@ -17,3 +17,8 @@ title = "From Healthcare to Automotive"
  - ["Cpp2 and cppfront: Year-end mini-update"](https://herbsutter.com/2022/12/31/cpp2-and-cppfront-year-end-mini-update/)
  - ["C++ at the end of 2022" - Bartlomiej Filipek](https://www.cppstories.com/2022/cpp-status-2022/)
  - ["libstdc++13 gets C++20 <chrono>"](https://www.reddit.com/r/cpp/comments/zt1o9k/libstdc13_gets_c20_chrono/)
+
+### Links ###
+ - [ToastMasters](https://www.toastmasters.org)
+ - ["Can software developers draw pictures" (Honey's CppCon 2020 Lightning Talk)](https://www.youtube.com/watch?v=hQjJzb-c05o)
+ - ["SOLID Principles Unleashed" (Honey's CppIndia 2022 talk)](https://www.youtube.com/watch?v=TtGqJ20_cuw)
