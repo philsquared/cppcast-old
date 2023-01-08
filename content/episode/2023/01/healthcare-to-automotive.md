@@ -8,6 +8,7 @@ episode_image = "img/episode/2023/01/honey-sukesan.jpg"
 podcast_duration = "53:00"
 podcast_file = "cppcast-351.mp3"
 title = "From Healthcare to Automotive"
+sponsors = ["jetbrains", "sonar"]
 +++
 
 ### News ###

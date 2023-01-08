@@ -3,6 +3,7 @@ Description = "Rob and Jason are back, at least for the holidays, and are joined
 Date = "2022-12-23"
 hosts = ["irvingr","turnerj"]
 guests = ["tdoumler", "pnash"]
+sponsors = ["jetbrains", "sonar"]
 episode = "350"
 episode_image = "img/episode/2022/12/phil_and_timur.jpg"
 podcast_duration = "01:05:43"
