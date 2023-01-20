@@ -1,6 +1,7 @@
 +++
 Title = "Dimi Racordon"
 Thumbnail = "img/guest/dimi-racordon.jpg"
+GitHub =  "kyouko-taiga"
 +++
 Dimi is a researcher at Northeastern University, in the US.
 
