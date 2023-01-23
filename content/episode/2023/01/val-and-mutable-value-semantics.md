@@ -23,6 +23,7 @@ sponsors = ["sonar", "jetbrains"]
  - ["I'll Build Myself" - Phil's song about building C++](https://www.youtube.com/watch?v=t2bCE0erTFI)
  - [P2739R0 - "A call to action:
 Think seriously about “safety”; then do something sensible about it"](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf)
- - [P2759R0 - "DG Opinion on Saftety for ISO C++"](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2759r0.pdf) - ["The Rule of Two"](https://chromium.googlesource.com/chromium/src/+/master/docs/security/rule-of-2.md)
+ - [P2759R0 - "DG Opinion on Saftety for ISO C++"](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2759r0.pdf)
+ - ["The Rule of Two"](https://chromium.googlesource.com/chromium/src/+/master/docs/security/rule-of-2.md)
  - [val-lang.dev - the official website for Val](https://www.val-lang.dev)
  
