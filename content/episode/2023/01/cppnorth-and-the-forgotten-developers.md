@@ -21,6 +21,7 @@ sponsors = ["jetbrains", "sonar"]
  
 ### Links ###
  - [CppNorth](https://cppnorth.ca)
+ - [Exclusive Discount code for CppNorth registration (while available)](https://store.cppnorth.ca/discount/CPPCAST?redirect=%2Fproducts%2Fcppnorth-2023)
  - [CppNorth mentoring email](mailto:submissionhelp@cppnorth.ca)
  - [CppNorth mentoring channel on Discord](https://discord.gg/6WtMVN5SZF)
  - "The Analogy of the Beekeeper" - please let us know if you find a link for this!
