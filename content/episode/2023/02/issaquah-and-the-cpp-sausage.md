@@ -23,7 +23,7 @@ sponsors = ["sonar", "jetbrains"]
 ### Links ###
  - [Orsen Scott Card's Beekeeper Analogy](https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf)
  - [P2806R0 - "Do Expressions"](https://wg21.link/p2806r0)
- - [Nina's user type categoies talk](https://www.youtube.com/watch?v=pdoUnvTwnr4)
+ - [Nina's user type categories talk](https://www.youtube.com/watch?v=pdoUnvTwnr4)
  - [P2644R1 - "Final Fix of Broken Range‐based for Loop"](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2644r1.pdf)
  - [P2047R1 - "An allocator aware optional type"](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2047r1.html)
  - [Embracing Modern C++ Safely](https://www.bloomberg.com/company/stories/why-4-bloomberg-engineers-wrote-another-cplusplus-book/)
