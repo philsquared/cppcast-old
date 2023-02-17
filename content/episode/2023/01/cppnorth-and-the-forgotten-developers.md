@@ -24,7 +24,7 @@ sponsors = ["jetbrains", "sonar"]
  - [Exclusive Discount code for CppNorth registration (while available)](https://store.cppnorth.ca/discount/CPPCAST?redirect=%2Fproducts%2Fcppnorth-2023)
  - [CppNorth mentoring email](mailto:submissionhelp@cppnorth.ca)
  - [CppNorth mentoring channel on Discord](https://discord.gg/6WtMVN5SZF)
- - "The Analogy of the Beekeeper" - please let us know if you find a link for this!
+ - [Orsen Scott Card's Beekeeper Analogy](https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf)
  - [Verse, the new Unreal scripting language](https://forums.unrealengine.com/t/verse-the-new-unreal-scripting-language/156617)
  - [Talk on Verse, by Simon Peyton Jones](https://www.youtube.com/watch?v=832JF1o7Ck8)
  - ["C++ Software Design" (book) - Klaus Iglberger](https://www.oreilly.com/library/view/c-software-design/9781098113155/)
