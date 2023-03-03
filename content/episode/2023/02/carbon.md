@@ -1,5 +1,5 @@
 +++
-Description = "Richard Smith joins Timur and Phil. After th usual news round-up, we chat with Richard about the new C++ successor language, Carbon. Richard is one of the three lead contributors to Carbon and he discusses the philosophy and some of the special features that make Carbon different."
+Description = "Richard Smith joins Timur and Phil. After the usual news round-up, we chat with Richard about the new C++ successor language, Carbon. Richard is one of the three lead contributors to Carbon and he discusses the philosophy and some of the special features that make Carbon different."
 Date = "2023-03-03"
 hosts = ["pnash", "tdoumler"]
 guests = ["rsmith"]
